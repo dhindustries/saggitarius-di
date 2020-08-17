@@ -1,0 +1,19 @@
+{
+  "name": "@saggitarius/di",
+  "author": {
+    "name": "Daniel Haba",
+    "email": "habavx@gmail.com"
+  },
+  "version": "1.0.0",
+  "module": "dist/index.js",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@saggitarius/future": "git://github.com/dhindustries/saggitarius-future.git",
+    "@saggitarius/typing": "git://github.com/dhindustries/saggitarius-typing.git"
+  }
+}
